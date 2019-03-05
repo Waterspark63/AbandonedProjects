@@ -1,0 +1,53 @@
+item.Copper Pickaxe.name=Copper Pickaxe
+item.Copper Axe.name=Copper Axe
+item.Copper Shovel.name=Copper Shovel
+item.Copper Hoe.name=Copper Hoe
+item.Copper Sword.name=Copper Sword
+item.Copper Ingot.name=Copper Ingot
+
+item.Lead Pickaxe.name=Lead Pickaxe
+item.Lead Axe.name=Lead Axe
+item.Lead Shovel.name=Lead Shovel
+item.Lead Hoe.name=Lead Hoe
+item.Lead Sword.name=Lead Sword
+item.Lead Ingot.name=Lead Ingot
+
+item.Obsidian Pickaxe.name=Obsidian Pickaxe
+item.Obsidian Axe.name=Obsidian Axe
+item.Obsidian Shovel.name=Obsidian Shovel
+item.Obsidian Hoe.name=Obsidian Hoe
+item.Obsidian Sword.name=Obsidian Sword
+item.Obsidian Ingot.name=Obsidian Ingot
+
+item.Silver Pickaxe.name=Silver Pickaxe
+item.Silver Axe.name=Silver Axe
+item.Silver Shovel.name=Silver Shovel
+item.Silver Hoe.name=Silver Hoe
+item.Silver Sword.name=Silver Sword
+item.Silver Ingot.name=Silver Ingot
+
+item.Tin Pickaxe.name=Tin Pickaxe
+item.Tin Axe.name=Tin Axe
+item.Tin Shovel.name=Tin Shovel
+item.Tin Hoe.name=Tin Hoe
+item.Tin Sword.name=Tin Sword
+item.Tin Ingot.name=Tin Ingot
+
+item.Uranium Pickaxe.name=Uranium Pickaxe
+item.Uranium Axe.name=Uranium Axe
+item.Uranium Shovel.name=Uranium Shovel
+item.Uranium Hoe.name=Uranium Hoe
+item.Uranium Sword.name=Uranium Sword
+item.Uranium Ingot.name=Uranium Ingot
+
+tile.CopperOre.name=Copper Ore
+tile.LeadOre.name=Lead Ore
+tile.ObsidianOre.name=Obsidian Ore
+tile.SilverOre.name=Silver Ore
+tile.TinOre.name=Tin Ore
+tile.UraniumOre.name=Uranium Ore
+
+itemGroup.tabPlentifulOres=Plentiful Ores
+itemGroup.tabPlentifulOresTools=Plentiful Ores - Tools
+itemGroup.tabPlentifulOresOres=Plentiful Ores - Ores
+itemGroup.tabPlentifulOresArmor=Plentiful Ores - Armor

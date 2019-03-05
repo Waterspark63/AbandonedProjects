@@ -1,0 +1,16 @@
+[
+{
+    "modid": "techpack"
+    "name": "TechPack"
+    "description": "Hey! This is my first mod and its a Technology Mod!"
+    "version": "1.0"
+    "mcversion": "1.10.2"
+    "url": ""
+    "updateURL": ::,
+    "authorList"; ["Varxs_kids2"]
+    "credits": ""
+    "logofile": "logo.png"
+    "screenshots": ""
+    "dependencies": [mod_minecraftforge]
+}
+]
